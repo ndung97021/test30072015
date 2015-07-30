@@ -1,2 +1,4 @@
 cai file .git do la git no luu version trong do em ko dc xoa
 em ma xoa la no ko con git nua
+
+em them 1 dong ne (Em phai commit xong moi push dc)
